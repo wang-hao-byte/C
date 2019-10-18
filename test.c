@@ -7,6 +7,7 @@ int main()
 	return 0;
 
 }
+
 int main()
 {
 	int a = 10;
