@@ -16,6 +16,7 @@ int main()
 	printf("%d\n", b);
 	return 0;
 }
+
 int main()
 {
 	int a = 5;
